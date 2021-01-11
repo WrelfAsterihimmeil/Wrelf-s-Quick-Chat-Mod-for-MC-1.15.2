@@ -1,1 +1,1 @@
-1.8.9 WQC Mod の1.15.2対応版です
+this is an older ver. ignore it
